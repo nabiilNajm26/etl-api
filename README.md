@@ -2,7 +2,7 @@
 
 A Go-based REST API that converts CSV files into PostgreSQL database tables automatically. Built for teams tired of manual data entry.
 
-**Live Demo**: https://etl-api-production.up.railway.app
+**Live Demo**: https://etl-api-production.up.railway.app/health
 
 ## What it does
 

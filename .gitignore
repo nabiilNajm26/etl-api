@@ -45,8 +45,9 @@ Thumbs.db
 # Log files
 *.log
 
-# Documentation files
+# Documentation files (except README)
 *.md
+!README.md
 
 # Temporary files
 *.tmp

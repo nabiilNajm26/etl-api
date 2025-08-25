@@ -1,0 +1,11 @@
+date,product,amount,region,sales_rep
+2024-01-15,Widget A,299.99,North,John Smith
+2024-01-16,Widget B,199.50,South,Sarah Johnson
+2024-01-17,Widget C,450.00,East,Mike Davis
+2024-01-18,Widget A,299.99,West,Lisa Brown
+2024-01-19,Widget D,175.25,North,John Smith
+2024-01-20,Widget B,199.50,Central,Tom Wilson
+2024-01-21,Widget E,550.00,South,Sarah Johnson
+2024-01-22,Widget C,450.00,East,Mike Davis
+2024-01-23,Widget A,299.99,North,John Smith
+2024-01-24,Widget F,399.75,West,Lisa Brown
